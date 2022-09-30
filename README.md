@@ -5,7 +5,7 @@ Actually, i learn it with the application developer PHP/SYMFONY course since Jun
 
 I am following this training in parallel with my full time job as a consultant. About this job, i'm web integrator in a marketing team. I update the web pages by HTML/CSS and javascript/Jquery.
 
-In the near future, I'll like to become web developper on back-end with PHP/SYMFONY and others languages.
+In the near future, I'll like to become web developper on back-end with PHP/SYMFONY with a full time job.
 
 Here, you can find some projects about my job and my training.
 
