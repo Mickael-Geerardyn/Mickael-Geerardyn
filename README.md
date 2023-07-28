@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mickael-Geerardyn
-- 👀 I’m interested in web developpement
+- 👀 I’m passionnate about information technlologies and programmation
 - 🌱 I’m currently learning to improve my skills in web development with PHP and his framework SYMFONY at the openclassrooms school. 
 Actually, i learn it with the application developer PHP/SYMFONY course since June 2022.
 
